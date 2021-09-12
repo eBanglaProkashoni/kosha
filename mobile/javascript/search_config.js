@@ -1,0 +1,1 @@
+﻿var textForPages = ["The Adventure of         Kosha           and          Mala  By Sofia Al Mamun","-","-","-"];
